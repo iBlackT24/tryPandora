@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Hola</pattern>
+    <template>Bienvenid@, toma asiento. </template>
+  </category>
+</aiml>
+
+ <category>
+    <pattern>Entradas </pattern>
+    <template>Hoy tenemos ensalada, pan y fruta ¿Qué le gustaria ordenar? </template>
+  </category>
+  
+   <category>
+    <pattern>Sopa</pattern>
+    <template>¿Quieres la sopa del dia o consommé?</template>
+  </category>
